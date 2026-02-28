@@ -9,20 +9,7 @@ Liebe Mitglieder,
 
 die Termine für die Gemeinschaftsarbeiten im Jahr 2026 wurden nun festgelegt:
 
-| Termine 2026 |
-| -------- |
-| 28. März |
-| 11. April |
-| 25. April |
-| 9. Mai |
-| 30. Mai |
-| 13. Juni |
-| 27. Juni |
-| 18. Juli |
-| 15. August |
-| 12. September |
-| 26. September |
-| 25. Oktober |
+![Gemeinschaftsarbeitsmaulwurf]({{site.baseurl}}{% link images/2026_Termine-Gemeinschaftsarbeit.jpg %})
 
 Wir bitten euch, diese Termine frühzeitig vorzumerken.
 
@@ -46,5 +33,3 @@ Es gibt auch diverse Arbeiten zur Pflege und Erhaltung des Vereinshauses, die au
 Diese Arbeitsstunden werden selbstverständlich genauso angerechnet. Bei Interesse sprecht bitte den Vorstand an.
 
 _Vielen Dank für eure Unterstützung und euer Engagement!_
-
-![Gemeinschaftsarbeitsmaulwurf]({{site.baseurl}}{% link images/Gemeinschaftsarbeitsmaulwurf.jpg %})
