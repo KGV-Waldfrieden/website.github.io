@@ -46,3 +46,5 @@ Es gibt auch diverse Arbeiten zur Pflege und Erhaltung des Vereinshauses, die au
 Diese Arbeitsstunden werden selbstverständlich genauso angerechnet. Bei Interesse sprecht bitte den Vorstand an.
 
 _Vielen Dank für eure Unterstützung und euer Engagement!_
+
+![Gemeinschaftsarbeitsmaulwurf]({{site.baseurl}}{% link images/Gemeinschaftsarbeitsmaulwurf.jpg %})
